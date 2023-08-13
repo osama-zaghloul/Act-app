@@ -1,0 +1,23 @@
+{
+  "name": "ACT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.0.1",
+    "mongoose-long": "^0.3.2",
+    "random-token": "0.0.8"
+  }
+}
